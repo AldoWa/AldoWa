@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aldo Wanderley</h1>
 <h3 align="center">Front-end developer</h3>
 
-- 🌱 I’m currently learning **React.js, Next.js, Html, CSS and TypeScript**
+- 🌱 I’m currently learning **React.js, Vue.js, Next.js, Html, CSS and TypeScript**
 
-- 💬 Ask me about **React.js**
+- 💬 Ask me about **React.js/Vue.js**
 
 - 📫 How to reach me **aldowanderley11@gmail.com**
 
