@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aldo Wanderley</h1>
 <h3 align="center">A passionate frontend developer from Brasil 🇧🇷</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aldowa&label=Profile%20views&color=0e75b6&style=flat" alt="aldowa" /> </p>
-
 - 🌱 I’m currently learning **React.js, Vue.js, Next.js, Styled-Components, Tailwind CSS, Sass, Docker, Next-Auth, Typescript, SEO, Accessibility and Performance**
 
 - 💬 Ask me about **reactjs, vuejs, nextjs, docker, styled-components, sass and tailwind-css**
