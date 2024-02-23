@@ -21,4 +21,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aldowa&show_icons=true&locale=en&layout=compact" alt="aldowa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aldowa&" alt="aldowa" /></p>
+
